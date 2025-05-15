@@ -3,7 +3,7 @@
 <H3>NAME: DHARUNYADEVI S</H3>
 <H3>REGISTER NO.: 212223220018</H3>
 <H3>EX. NO.10</H3>
-<H3>DATE:</H3>
+
 
 ## AIM:
 To implement Principal Component Analysis (PCA) to reduce the dimensionality of the energy data.
